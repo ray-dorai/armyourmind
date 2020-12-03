@@ -1,6 +1,6 @@
 { siteTitle = "Arm Your Mind"
 , author = Some "Ray Doraisamy"
-, siteBaseUrl = Some "https://srid.github.io/neuron-template"
+, siteBaseUrl = Some "https://ray-dorai.github.io/armyourmind/"
 -- List of theme colors: https://neuron.zettel.page/2014601.html
 , theme = "red"
 -- This is used in the "edit" button
