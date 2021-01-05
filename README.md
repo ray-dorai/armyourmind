@@ -2,7 +2,7 @@
 
 Arm Your Mind is a project dedicated to providing a common language for the principles of conflict, all the way from the individual to the strategic context.
 
-Arm Your Mind is built withh Neruon. [neuron] is a knowledge management app.
+Arm Your Mind is built withh Neuron. [Neuron] is a knowledge management app.
 
 For more information, see [neuron documentation][neuron].
 
