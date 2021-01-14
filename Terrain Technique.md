@@ -2,7 +2,7 @@
 tags: [technique] 
 ---
 
-# Techniques
+# Terrain Technique
 
 #Topography 
 
