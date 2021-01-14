@@ -1,5 +1,7 @@
 ---
-tags: [principle] [terrain]
+tags: 
+-principle
+-terrain
 ---
 
 # Terrain
