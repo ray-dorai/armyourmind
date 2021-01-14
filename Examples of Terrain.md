@@ -2,7 +2,7 @@
 tags: [example]
 ---
 
-# Terrain
+# Examples of Terrain
 
 Napoleon's march on Russia.
 
