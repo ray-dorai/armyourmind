@@ -1,5 +1,5 @@
 ---
-tags: [example]
+tags: [example] [terrain]
 ---
 
 # Examples of Terrain
@@ -13,7 +13,3 @@ tags: [example]
 ## Strategic
 
 
-
-[[Terrain]]
-
-[[Terrain Techniques]]
