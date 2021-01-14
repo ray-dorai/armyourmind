@@ -8,4 +8,4 @@ Knowing the place you are in and using it to beat your enemy is one of the first
 
 [[Examples of Terrain]]
 
-[[Terrain Techniques]]
+[[Terrain Technique]]
