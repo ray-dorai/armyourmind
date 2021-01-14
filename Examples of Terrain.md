@@ -4,7 +4,15 @@ tags: [example]
 
 # Examples of Terrain
 
-Napoleon's march on Russia.
+## Individual
+
+## Tactical
+
+## Operational
+
+## Strategic
+
+
 
 [[Terrain]]
 
