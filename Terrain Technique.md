@@ -1,5 +1,5 @@
 ---
-tags: [technique] [terrain]
+tags: [technique] 
 ---
 
 # Techniques
