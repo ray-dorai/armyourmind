@@ -1,5 +1,7 @@
 ---
-tags: [example] [terrain]
+tags: 
+-example
+-terrain
 ---
 
 # Examples of Terrain
