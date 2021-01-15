@@ -35,10 +35,22 @@ The Strategy of Indirect Approach, B.H Liddell-Hart
 
 Defeat into Victory, William Slim  
 About Face, David Hackworth  
+The Search for Tactical Success in Vietnam: An Analysis of Australian
+Task Force Operations, Ross, Hall & Griffin  
 Selous Scouts, Peter Baxter   
+Not Mentioned in Despatches: The History and Mythology of the Battle
+of Goose Green, Spencer Fitz-Gibbon  
+On Tactics: A Theory of Victory in Battle, BA Friedman  
 
 Mind Over Muscle, Jigaro Kano  
 Jeet Kune Do, Bruce Lee  
+
+On Killing, Dave Grossman  
+The Microsociology of Violence, Randall Collins  
+Ultrasociety: How 10,000 Years of War Made Humans the Greatest Cooperators on Earth, Peter Turchin    
+
+Lessons Learned: Learning from the Long War, Richard Hooker and Joseph Collins  
+Military Power: Explaining Victory and Defeat in Modern Battle, Stephen Biddle
 
 
 Combined Arms Operations in Urban Terrain (FM 3-06.11)  
