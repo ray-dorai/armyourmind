@@ -4,7 +4,7 @@ tags: [other]
 
 # Sources
 
-If you edit or add a note and have been informed by a source, add it to this list.
+**If you edit or add a note and have been informed by a source, add it to this list.**
 
 The Art of War, Sun Tzu  
 The Thirty-Six Stratagems  
