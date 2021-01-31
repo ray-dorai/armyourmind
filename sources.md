@@ -28,6 +28,7 @@ Storm of Steel, Ernst Jünger
 The Clay Pigeons of St. Lo, Glover S. Johns  
 Infantry in Battle, US Army  
 Infantry Attacks, Erwin Rommel  
+Truppenführung, German Army
 
 Company Commander, Charles MacDonald  
 A Helmet for My Pillow, Robert Leckie  
