@@ -77,4 +77,6 @@ New Zealand Defence Doctrine (NZDDP-D)
 
 UK Defence Doctrine (JDP 0-01)
 
+Land Operations (ADP AC-71940)
+
 
