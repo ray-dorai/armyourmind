@@ -58,6 +58,7 @@ The 2008 Battle of Sadr City, Johnson, Markel, & Shannon
 Infantry Squad Tactics, Catagnus Jr, Edison, Keeling & Moon  
 Formation of raiding parties for intergroup violence is
 mediated by social network structure, Glowacki et al  
+The word of command: Communication and cohesion in the military, King  
 
 Boobytraps (FM 5-31)  
 The Infantry Rifle Platoon and Squad (FM 3.21-8)  
