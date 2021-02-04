@@ -75,4 +75,6 @@ Formation Tactics (LWD 3-0-3)
 
 New Zealand Defence Doctrine (NZDDP-D)
 
+UK Defence Doctrine (JDP 0-01)
+
 
