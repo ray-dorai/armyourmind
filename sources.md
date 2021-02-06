@@ -82,3 +82,4 @@ Land Operations (ADP AC-71940)
 
 https://www.theboxotruth.com/  
 https://tgace.wordpress.com/
+https://www.youtube.com/c/PaulHarrell
