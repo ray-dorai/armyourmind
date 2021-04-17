@@ -80,6 +80,11 @@ UK Defence Doctrine (JDP 0-01)
 
 Land Operations (ADP AC-71940)
 
+https://www.reddit.com/r/CombatFootage/
+https://www.reddit.com/r/CQB/
+
 https://www.theboxotruth.com/  
 https://tgace.wordpress.com/  
 https://www.youtube.com/c/PaulHarrell
+[UF Pro's Guide to CQB](https://www.youtube.com/watch?v=tam5y2qREkk&list=PLOv4gE-dhrTBknVIi9Ey8B7Anx80C21n7)
+[Project Gecko](https://www.youtube.com/user/eliran936)
