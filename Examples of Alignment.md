@@ -12,3 +12,4 @@ tags: [Example]
 ## Operational
 
 ## Strategic
+* In the doctrine of the armies of Commonwealth nations, *Alignment* is often referred to as the 'maintenance of the aim'. Having a clear aim for a fighting force allows the parts that make up the whole force to better work together.
