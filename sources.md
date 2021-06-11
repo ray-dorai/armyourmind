@@ -43,14 +43,15 @@ Not Mentioned in Despatches: The History and Mythology of the Battle
 of Goose Green, Spencer Fitz-Gibbon  
 On Tactics: A Theory of Victory in Battle, BA Friedman  
 Lessons Learned: Learning from the Long War, Hooker & Collins  
-The Bear Went Over the Mountain, Lester W. Grau  
+The Bear Went Over the Mountain, Lester W. Grau
+The Other Side of the Mountain, Ali Ahmad Jalali
 Military Power: Explaining Victory and Defeat in Modern Battle, Stephen Biddle  
+Fangs of the Lone Wolf, Dodge Billingsley
 
 Mind Over Muscle, Jigaro Kano  
 Jeet Kune Do, Bruce Lee  
 
 A New Conception of War, Ian T. Brown  
-On Killing, Dave Grossman  
 The Microsociology of Violence, Randall Collins  
 Ultrasociety: How 10,000 Years of War Made Humans the Greatest Cooperators on Earth, Peter Turchin  
 
