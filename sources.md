@@ -54,6 +54,7 @@ Jeet Kune Do, Bruce Lee
 A New Conception of War, Ian T. Brown  
 The Microsociology of Violence, Randall Collins  
 Ultrasociety: How 10,000 Years of War Made Humans the Greatest Cooperators on Earth, Peter Turchin  
+Never Split the Difference, Chris Voss  
 
 The 2008 Battle of Sadr City, Johnson, Markel, & Shannon
 Infantry Squad Tactics, Catagnus Jr, Edison, Keeling & Moon  
