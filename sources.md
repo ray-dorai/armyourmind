@@ -43,7 +43,7 @@ Not Mentioned in Despatches: The History and Mythology of the Battle
 of Goose Green, Spencer Fitz-Gibbon  
 On Tactics: A Theory of Victory in Battle, BA Friedman  
 Lessons Learned: Learning from the Long War, Hooker & Collins  
-The Bear Went Over the Mountain, Lester W. Grau
+The Bear Went Over the Mountain, Lester W. Grau  
 The Other Side of the Mountain, Ali Ahmad Jalali
 Military Power: Explaining Victory and Defeat in Modern Battle, Stephen Biddle  
 Fangs of the Lone Wolf, Dodge Billingsley
