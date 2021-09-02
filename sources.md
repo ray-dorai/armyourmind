@@ -49,7 +49,7 @@ The Bear Went Over the Mountain, Lester W. Grau
 The Other Side of the Mountain, Ali Ahmad Jalali
 Military Power: Explaining Victory and Defeat in Modern Battle, Stephen Biddle  
 Fangs of the Lone Wolf, Dodge Billingsley
-
+  
 Mind Over Muscle, Jigaro Kano  
 Jeet Kune Do, Bruce Lee  
 Mastering Jujitsu, John Danaher 
