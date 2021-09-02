@@ -14,6 +14,7 @@ The Peloponnesian Wars, Thucydides
 The Gallic Wars, Julius Caesar  
 De re militari, Vegetius  
 Strategikon, Maurice  
+Taktica, Leo VI  
 Taktika,  Nikephoros Ouranos  
 The Tree of Battles, Honoré Bouvet  
 The Book of Five Rings, Musashi  
