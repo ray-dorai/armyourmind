@@ -51,7 +51,8 @@ Military Power: Explaining Victory and Defeat in Modern Battle, Stephen Biddle
 Fangs of the Lone Wolf, Dodge Billingsley
 
 Mind Over Muscle, Jigaro Kano  
-Jeet Kune Do, Bruce Lee  
+Jeet Kune Do, Bruce Lee 
+Mastering Jujitsu, John Danaher 
 
 A New Conception of War, Ian T. Brown  
 The Microsociology of Violence, Randall Collins  
