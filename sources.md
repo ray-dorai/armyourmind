@@ -11,6 +11,7 @@ The Thirty-Six Stratagems
 Three Strategies of Huang Shigong  
 The Arthashastra  
 The Peloponnesian Wars, Thucydides  
+Anabasis, Xenophon  
 The Gallic Wars, Julius Caesar  
 De re militari, Vegetius  
 Strategikon, Maurice  
