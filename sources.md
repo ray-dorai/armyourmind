@@ -76,6 +76,7 @@ Tactics (MCDP 1-3)
 Marine Rifle Squad (MCWP 3-11.2)  
 Small Unit Leader’s Guide to Weather and Terrain (MCRP 3-11.1B)  
 Commander’s Tactical Handbook (MCRP 3-11.1A)  
+Small Wars Manual (FMFRP 12-15)
 
 Formation Tactics (LWD 3-0-3)
 
