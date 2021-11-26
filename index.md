@@ -11,7 +11,7 @@ What we can do to help make the world stronger **RIGHT NOW**:
 * Document how these principles play out in any combat sport you may be learning
 * Get your friends together for force-on-force exercises and show the world how you're learning to handle conflict
 
-This collection was made possible with the support of [The McLegibilist](https://crispy.substack.com/), [Carthage Must Be Destroyed](https://www.youtube.com/channel/UCUOKkH_jmQZXrbjNllcvfHQ), [Colton Dillion](http://www.coltondillion.com/), and Tina Kovacova.
+This was made possible with the support of [The McLegibilist](https://crispy.substack.com/), [Carthage Must Be Destroyed](https://www.youtube.com/channel/UCUOKkH_jmQZXrbjNllcvfHQ), [Colton Dillion](http://www.coltondillion.com/), and Tina Kovacova.
 
 
 [[[z:zettels?tag=principle]]]
