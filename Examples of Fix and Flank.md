@@ -6,7 +6,7 @@ tags: [Example]
 
 
 ## Individual
-The boxer's One-Two punch is usually an attempt to fix an opponent with a Jab followed by a Cross from another angle- the Flank.
+The boxer's [One-Two punch](https://youtu.be/KN9NGbIK2q8?t=13) is usually an attempt to fix an opponent with a Jab followed by a Cross from another angle- the Flank.
 
 ## Tactical
 
