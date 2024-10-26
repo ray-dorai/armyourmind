@@ -6,9 +6,9 @@ tags: [Example]
 
 
 ## Individual
-[In this video](https://youtu.be/xHVBi2VCcQI?t=845), Sylvie Von Douglas-Ittu, Muay Thai fighter, points out that she was approaching her opponent's strength with her strength instead of using Asymmetry. Next, she takes her opponent to an environment (the clinch) which is her strength and less of a strength for her opponent.
+[In this video](https://youtu.be/xHVBi2VCcQI?t=845), Sylvie Von Douglas-Ittu, **Muay Thai** fighter, points out that she was approaching her opponent's strength with her strength instead of using Asymmetry. Next, she takes her opponent to an environment (the clinch) which is her strength and less of a strength for her opponent.
 
-The standard armbar allows an attacker to [use their entire their body](https://youtu.be/b3w8ZM_qhJ0?si=_NX9zHWCuSLFZDp4&t=22), including all four limbs, against an opponent's single arm.
+The standard **armbar** allows an attacker to [use their entire their body](https://youtu.be/b3w8ZM_qhJ0?si=_NX9zHWCuSLFZDp4&t=22), including all four limbs, against an opponent's single arm.
 
 ## Tactical
 
