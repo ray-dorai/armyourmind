@@ -10,6 +10,11 @@ tags: [Example]
 ## Tactical
 
 ## Operational
+[The Other Side of the Mountain](https://www.amazon.com/Other-Side-Mountain-Mujahideen-Soviet-Afghan/dp/B000KD7794) has three examples.
+* Operation Arrow showed strong alignment where Commander Wardak organized five strike groups, two containment groups, a reserve, and a rocket group - each with clear tasks aligned to the overall mission of shutting down the Kabul-Jalalabad highway.
+* The defense of Chaharqulba Village showed alignment. The defenders built extensive fortified positions, established regular rotations of forces, maintained consistent resupply at night, kept fighters in bunkers during bombardments, had clear procedures for emerging to engage infantry, and maintained this disciplined defense for 34 days.
+* Commander Baloch's forces dispersed strong points across twenty villages, had a clear understanding of enemy patterns, and used both this and the terrain to establish withdrawal routes and protect logistics.
 
 ## Strategic
 * In the doctrine of the armies of Commonwealth nations, *Alignment* is often referred to as the 'maintenance of the aim'. Having a clear aim for a fighting force allows the parts that make up the whole force to better work together.
+* In Afghanistan with the Mujahideen resisting Soviet occupation, and later, the Taliban staying united while American support for the war crumbled.
